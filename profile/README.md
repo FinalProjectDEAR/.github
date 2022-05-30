@@ -11,19 +11,19 @@
 > - 1 대 1 랜덤매칭을 통한 연애상담 서비스
 > - 연인의 선물고민! 깻잎 논쟁 등 다양한 주제로 소통이 가능한 익명 커뮤니티 서비스
 
-[노션 브로셔 구경하기!](https://www.notion.so/1-1-802512b968d4455aa5356d211de60827)
+- <a href="https://www.notion.so/1-1-802512b968d4455aa5356d211de60827"><img src="https://img.shields.io/badge/브로셔 바로가기-00148C?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 ## 🛠 서비스 아키텍쳐 🛠 
 
 
-## 📌 Dear Service 미리보기 (Mobile)
+## 💌 Dear Service 미리보기 (Mobile)
 
-|<a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear-Main">🔗Login</a>                                                           |         <a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear-Main">🔗Main Page</a>|                                                       <a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear-board">🔗 Chat</a>                                                        |                                                          <a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear-My">🔗MyPage</a>                                                           |                                                          <a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear-Chat">🔗Board</a>                                                           |
+|<a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear#로그인-기능">🔗Login</a>                                                           |         <a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear#메인-페이지">🔗Main Page</a>|                                                       <a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear#음성채팅-서비스">🔗 Chat</a>                                                        |                                                          <a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear#마이페이지">🔗MyPage</a>                                                           |                                                          <a href="https://github.com/FinalProjectDEAR/dear_BE/wiki/Dear#게시판">🔗Board</a>                                                           |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img width="320" alt="로그인" src="https://user-images.githubusercontent.com/89297942/170923365-5eb21ada-7259-4597-a657-3db12cec92d3.gif"> | <img width="320" alt="메인 페이지" src="https://user-images.githubusercontent.com/89297942/170923375-dc3467b0-1fb2-4ffe-b265-61017d10f6be.gif"> | <img width="320" alt="채팅" src="https://user-images.githubusercontent.com/89297942/170923378-bdb9b9b1-3601-4dea-9887-a40d5ad00530.gif"> | <img width="320" alt="마이페이지" src="https://user-images.githubusercontent.com/89297942/170923368-d28bc08b-2711-4737-9dde-1be62435a450.gif"> | <img width="320" alt="게시판" src="https://user-images.githubusercontent.com/89297942/170923340-6a834f0f-a765-47cc-8e53-19a913516f4f.gif"> | 
+| <img width="320" alt="로그인" src="https://user-images.githubusercontent.com/89297942/170923365-5eb21ada-7259-4597-a657-3db12cec92d3.gif"> | <img width="320" alt="메인 페이지" src="https://user-images.githubusercontent.com/89297942/170923375-dc3467b0-1fb2-4ffe-b265-61017d10f6be.gif"> | <img width="320" alt="채팅" src="https://user-images.githubusercontent.com/89297942/170944832-8cfd2e1b-0394-4e41-b2de-b1b419adc6cf.gif"> | <img width="320" alt="마이페이지" src="https://user-images.githubusercontent.com/89297942/170944822-165fd9a6-10e8-43a4-8416-2d50be2a3e2c.gif"> | <img width="320" alt="게시판" src="https://user-images.githubusercontent.com/89297942/170923340-6a834f0f-a765-47cc-8e53-19a913516f4f.gif"> | 
 
  
-## 📌 Dear Service 미리보기 (WEB)
+## 💌 Dear Service 미리보기 (WEB)
 ### LOGIN
 <img width="600" alt="로그인" src="https://user-images.githubusercontent.com/89297942/170921755-857acafb-dccc-41ce-9ebd-b9c0cdb5ee86.gif">
 
@@ -31,7 +31,7 @@
 <img width="600" alt="메인 페이지" src="https://user-images.githubusercontent.com/89297942/170921181-9d858984-e533-4322-8943-a548c355f4a5.gif">
 
 ### MyPage
-<img width="600" alt="마이 페이지" src="https://user-images.githubusercontent.com/89297942/170921513-1223edc2-fc6b-4c8b-9f11-c9e85bbef42e.gif">
+<img width="600" alt="마이 페이지" src="https://user-images.githubusercontent.com/89297942/170939795-28a0d0e5-4c8c-4bb8-a8ab-bbc907e85f7a.gif">
 
 ### Chat
 <div>
@@ -46,16 +46,14 @@
 </div>
 
 
-### 🚩채팅
+### 💌 채팅
 
-> - 한 달 동안 나의 습관으로 만들고 싶은 내용을 챌린지로 개설하거나, 다른 사람이 만든 챌린지에 참여해보세요.
-> - 매일 매일 인증샷을 올리며, 내가 올린 인증샷들을 모아볼 수 있어요.
+> - 누군가에게 털어놓고 싶은 연애고민이 있나요? 혹은 누군가의 고민을 잘 들어주나요?
+> - 목소리만으로 대화가 가능해 부담없이 고민을 얘기할 수 있어요!
 
-### 🎨 
+### 💌 익명 커뮤니티
 
-> - 챌린지에 참여하거나 개설하고, 인증샷을 올리며 얻은 포인트로 나만의 캐릭터를 꾸며보세요.
-> - 2만 가지 이상의 조합이 가능한 아이템들이 준비되어 있어요!
-> - 나만의 개성을 드러낸 캐릭터를 SNS에 업로드해서 자랑해봅시다!
+> - 대화가 부담스러운 날에는 디어 상담소에서 사람들과 소통해요! 간단한 질문은 투표로 남겨보세요!
 
 
 ## ⚒️Skill⚒️
@@ -70,15 +68,23 @@
 
 ### 프론트엔드
 
-- 김혜리 : [혜리님의 깃허브](https://github.com/hyeri-hi5)
-- 김가경 : [가경님의 깃허브](https://github.com/GYMMX)
+- <img src="https://img.shields.io/badge/김혜리-FD755C?style=for-the-badge&logo=React&logoColor=white"/>  <a href="https://github.com/hyeri-hi5">
+         <img src="https://img.shields.io/badge/Heyri_GitHub-FD755C?style=for-the-badge&logo=github&logoColor=white"/> </a>
+- <img src="https://img.shields.io/badge/김가경-FD755C?style=for-the-badge&logo=React&logoColor=white"/>  <a href="https://github.com/GYMMX">
+         <img src="https://img.shields.io/badge/GaKyom_Gighub-FD755C?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 ### 백엔드
 
-- 임인혁 : [인혁님의 깃허브](https://github.com/Dplo1514)
-- 박형기 : [형기님의 깃허브](https://github.com/Denia-park)
-- 김현규 : [현규님의 깃허브](https://github.com/SomeD203)
+- <img src="https://img.shields.io/badge/임인혁-609926?style=for-the-badge&logo=Spring&logoColor=white"/>  <a href="https://github.com/Dplo1514">
+         <img src="https://img.shields.io/badge/Plo_GitHub-609926?style=for-the-badge&logo=github&logoColor=white"/> </a>
+- <img src="https://img.shields.io/badge/박형기-609926?style=for-the-badge&logo=Spring&logoColor=white"/>  <a href="https://github.com/Denia-park">
+         <img src="https://img.shields.io/badge/Denia_Github-609926?style=for-the-badge&logo=github&logoColor=white"/> </a>
+- <img src="https://img.shields.io/badge/김현규-609926?style=for-the-badge&logo=Spring&logoColor=white"/>  <a href="https://github.com/SomeD203">
+         <img src="https://img.shields.io/badge/SomeD_Github-609926?style=for-the-badge&logo=github&logoColor=white"/> </a>
+         
+### 디자인
 
-### 디자이너
-- 김현경 : [현경님의 블로그](https://github.com/SomeD203)
-- 최혜지 : [혜지님의 블로그](https://github.com/SomeD203)
+- <img src="https://img.shields.io/badge/김현경-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>  <a href="pinechj@gmail.com">
+         <img src="https://img.shields.io/badge/HyunKyung_Email-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/> </a>
+- <img src="https://img.shields.io/badge/최혜지-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/> <a href="hyun0217k@gmail.com">
+         <img src="https://img.shields.io/badge/HyeJi_Email-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/> </a>
